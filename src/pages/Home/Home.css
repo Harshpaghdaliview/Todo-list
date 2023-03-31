@@ -1,0 +1,34 @@
+ .sub-main{
+    background-color: whitesmoke;
+ }
+ .input-field{
+    border-radius: 5px;
+    width: 84%;
+ }
+
+ .text-main{
+    font-family: auto;
+ }
+ .upbtn{
+    border-radius: 5px;
+    background-color: skyblue;
+    box-shadow: 2px 2px
+ }
+ 
+ .delbtn{
+    border-radius: 5px;
+    background-color: #ff0000c9 ;
+    box-shadow: 2px 2px
+ }
+
+ .list-name{
+    display: flex;
+    justify-content: space-between;
+ }
+ .Add-button{
+    width: 15%;
+    border-radius: 5px;
+    background-color: #18af22;
+    color: white;
+    box-shadow: 2px 2px black
+ }
